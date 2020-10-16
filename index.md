@@ -1,37 +1,21 @@
-## MyWonder 
+## Project Summary
+MyWonder is a platform for big data analytics and visualization that allows users to calculate their analytics from their phones and create visualizations from massive files within 10 minutes. Previously, users had to wait for hours to complete the process of visualizations. 
 
-You can use the [editor on GitHub](https://github.com/2018yzhang/MyWonder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The method approached by MyWonder is to distribute the files on the cloud to increase speed and save more time. Users can calculate summaries from their phones directly which is useful for meetings. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+MyWonder is conducted by Khider&Garijo CORP.
 
-### Markdown
+## Wastes
+1. **Waiting:** The terminology and contents in the user interface is not understandable and intuitive so that it takes time from meetings with clients to ask help from customer assistance team. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. **Transport:** Since only the backend team can update the content, customer support had to talk to the designers about the problems and then the designers communicated with the backend team. The process of solving problems is too complicated. 
 
-```markdown
-Syntax highlighted code block
+3. **Skills:** There is not a separate testing and production environment to allow to change contents quickly before a demo. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
+## Deliverables
 1. Numbered
 2. List
+## Milestone
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2018yzhang/MyWonder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Gantt Diagram
+![Image of DG](/DG.png) 
